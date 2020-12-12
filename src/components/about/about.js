@@ -23,7 +23,7 @@ export default class About extends Component {
                   <div className="col-lg-6">
                     <ul>
                       <li><i className="icofont-rounded-right" /> <strong>Birthday:-</strong> 31 March 2001</li>
-                      <li><i className="icofont-rounded-right" /> <strong>Website:-</strong> www.example.com</li>
+                      <li><i className="icofont-rounded-right" /> <strong>Website:-</strong>saumyaportfolio.herokuapp.com</li>
                       <li><i className="icofont-rounded-right" /> <strong>Email:-</strong> saumyasanjay08@gmail.com </li>
                       <li><i className="icofont-rounded-right" /> <strong>City:-</strong>Raebareli, Uttar Pradesh</li>
                     </ul>
