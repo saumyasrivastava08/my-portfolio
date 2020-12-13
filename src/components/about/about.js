@@ -87,7 +87,7 @@ export default class About extends Component {
                 </div>
               </div>
               <div className="progress">
-                <span className="skill">Data Structures &amp; Algorithms  <i className="val">55%</i></span>
+                <span className="skill">DS &amp; Algo <i className="val">55%</i></span>
                 <div className="progress-bar-wrap">
                   <div className="progress-bar" role="progressbar" aria-valuenow={55} aria-valuemin={0} aria-valuemax={100} />
                 </div>
